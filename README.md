@@ -29,3 +29,6 @@ The goal of this project was to design and implement a relational database to su
 -  Created tables in SQL Server with appropriate constraints.
 -  Inserted sample data (20–30 rows per table) for testing.
 -  Wrote queries to validate relationships and perform operations.
+
+  Note; The SQL queries is attached in the file for this work
+  
